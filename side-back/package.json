@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1"
+  },
+  "name": "side-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoominYim/side-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoominYim/side-back/issues"
+  },
+  "homepage": "https://github.com/SoominYim/side-back#readme",
+  "description": ""
+}
